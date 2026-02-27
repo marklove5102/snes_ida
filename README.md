@@ -8,7 +8,7 @@ Please fill free to create issues regarding any problems.
 
 # Installation
 
-IDA 9.2 Required.
+IDA 9.x Required.
 
 1. Rename IDA's original `/procs/m65816.dll` into `/procs/m65816_dll`
 2. Rename IDA's original `/loaders/snes.dll` into `/loaders/snes_dll`
