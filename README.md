@@ -14,6 +14,16 @@ IDA 9.x Required.
 2. Rename IDA's original `/loaders/snes.dll` into `/loaders/snes_dll`
 3. Put the loader into IDA's `/loaders`, and the proc module into `/procs` folder
 
+# Hotkeys for offsets
+
+| Hotkey | Description |
+| - | - |
+| O | Change bank to current |
+| Ctrl+O | Change bank to selected |
+| Shift+O | Change bank to WRAM |
+| Ctrl+Shift+O | Change bank to ZERO |
+| Ctrl+Alt+O | Change bank to custom |
+
 # TODO
 
 Name Registers.
